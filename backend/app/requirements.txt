@@ -1,0 +1,17 @@
+Django
+psycopg2-binary
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+drf-spectacular
+celery
+redis
+boto3
+django-storages
+python-dotenv
+pytest
+pytest-django
+PyPDF2
+python-docx
+google-genai
+google-adk
